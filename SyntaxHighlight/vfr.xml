@@ -18,9 +18,9 @@
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
             <Keywords name="Folders in code1, close"></Keywords>
-            <Keywords name="Folders in code2, open">suppressif oneof grayoutif disableif form numeric formset</Keywords>
+            <Keywords name="Folders in code2, open">suppressif oneof grayoutif disableif form numeric formset password</Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
-            <Keywords name="Folders in code2, close">endif endoneof endform endnumeric endformset</Keywords>
+            <Keywords name="Folders in code2, close">endif endoneof endform endnumeric endformset endpassword</Keywords>
             <Keywords name="Folders in comment, open">#if #ifdef</Keywords>
             <Keywords name="Folders in comment, middle">#else</Keywords>
             <Keywords name="Folders in comment, close">#endif</Keywords>
@@ -42,7 +42,7 @@
             <WordsStyle name="KEYWORDS1" fgColor="0080C0" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="804000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS4" fgColor="008080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="008080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
